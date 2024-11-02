@@ -1,0 +1,24 @@
+.card-image{
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.card-fill>p{
+  margin-bottom: 5px;
+}
+
+.card-time{
+  font-size: 0.6rem;
+}
+
+.card-desc{
+  display: -webkit-box;            /* Flex-like behavior for line clamping */
+  -webkit-box-orient: vertical;     /* Set the orientation to vertical */
+  overflow: hidden;                 /* Hide overflow text */
+  text-overflow: ellipsis;          /* Add ellipsis for overflowed text */
+  line-height: 1.2em;               /* Adjust line height to control spacing */
+  height: calc(1.2em * 4);      /* Minimum height for 5 lines */
+  -webkit-line-clamp: 4;
+}
