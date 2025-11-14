@@ -9,27 +9,24 @@ The database schema for EduFun is available in the SQL file. You can find it [he
 # Page
 
 ## Home Page
-![Home](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/home.png)
+![Home](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/1.jpg)
 
 ## Category Page
-![Category Dropdown](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/category.png)
+![Category1](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/2.jpg)
 
-## Detail Page
-![Category1](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/category1.png)
-
-![Category2](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/category2.png)
+![Category2](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/3.jpg)
 
 ## Read More Page
-![Detail](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/read-more.png)
+![Detail](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/4.jpg)
 
 ## Writers Page
-![Writers](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/writers.png)
+![Writers](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/5.jpg)
 
 ## Writer's Course Page
-![Writer's Course](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/writers-course.png)
+![Writer's Course](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/6.jpg)
 
 ## About Us Page
-![About Us](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/about-us.png)
+![About Us](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/7.jpg)
 
 ## Popular Page
-![Popular](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/popular.png)
+![Popular](https://github.com/chrisprojs/EduFun/blob/main/image_documentation/8.jpg)
